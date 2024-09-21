@@ -1,2 +1,2 @@
-This is a small story so I can tell my commits are working propurly
+This is a small story so I can tell my commits are working properly
 ECHO is on.
